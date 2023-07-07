@@ -12,5 +12,6 @@
 <img width="400" alt="결과물" src="https://github.com/hyotatoFrappuccino/fallDection_arudino/assets/66837740/b1480533-318b-473f-8532-359b92a3b896">
 
 [단순 시연 영상(유튜브 영상 바로가기 클릭)](https://youtu.be/e40RCA_U70M)
+<img width="400" alt="결과물" src="https://github.com/hyotatoFrappuccino/fallDection_arudino/assets/66837740/a5c4e5ad-74b9-4d79-85f7-7f36f72c721f">
 
 <img width="400" alt="수료증" src="https://github.com/hyotatoFrappuccino/fallDection_arudino/assets/66837740/13bff361-7da1-4f57-af68-e38106ee623c">
